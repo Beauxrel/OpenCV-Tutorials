@@ -1,0 +1,3 @@
+/home/landon/Desktop/source/opencv/colorDetection/CMakeFiles/colorDetection.dir
+/home/landon/Desktop/source/opencv/colorDetection/CMakeFiles/edit_cache.dir
+/home/landon/Desktop/source/opencv/colorDetection/CMakeFiles/rebuild_cache.dir
